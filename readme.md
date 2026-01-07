@@ -1,4 +1,4 @@
-# Scientific Justification & Citations for All Methods, Parameters, and Decisions
+# Smart Premium 
 
 This section provides comprehensive, research-backed justification for every feature, parameter, threshold, model choice, and statistical technique used in this health insurance risk stratification project.
 
@@ -358,3 +358,4 @@ Final Risk Score = Health Risk Score × Age_Mult × Smoking_Mult × Sex_Mult
 ---
 
 **END OF SCIENTIFIC JUSTIFICATION & CITATIONS**
+
